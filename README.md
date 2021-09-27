@@ -73,17 +73,6 @@ Create the Frequency Distribution Plot to examine the GMAT scores. Explain your 
 
 10) Parameters: For the above question, display the Selection’s Average Sales using a Reference Line.
 
-#module 8
-1) Create a Symbol Map showing the Sales of Super store. Display the Population Data of US as the Data Layer.
-
-2) Divide United States into 3 different territories using the selection tools and Visual Grouping concept. Display the profit of each territory as a Label. Hint: Group using (Country,State)
-
-3) Create a Map of United States showing different states on the WMS map. Link to the WMS Map: http://ows.terrestris.de/osm/service
-
-4) Using the “Bank of China Branches.csv” file given, plot all the branches of “Bank of China” on a world Map. Hint: Use Custom Geo coding to import the new geographic role for “Branch”. CSV file with the Latitude and Longitude information for all the branches is given (Bank of China Branches - Custom Geocoding.csv)
-
-5) Use the “hong_kong_mtr.png” image and generate coordinates for all the stations on the “Island Line” and “Kwun Tong Line”. Hongkong MTR.xlsx data source is provided.
-
 #module 9
 Create an interactive dashboard to display the Sales of Superstore. Use Filter, Highlight and URL Actions.
 
